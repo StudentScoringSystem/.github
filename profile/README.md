@@ -10,4 +10,4 @@
 
 ~~实际上只有一个人~~
 
-联系 [awdndwinxp@163.com](mailto:name@email.com?subject=加入%20StudentScoringSystem)
+联系 [awdndwinxp@163.com](awdndwinxp@163.com?subject=加入%20StudentScoringSystem)
